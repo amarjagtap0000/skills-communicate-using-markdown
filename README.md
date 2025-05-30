@@ -1,7 +1,7 @@
 <header>
 
 <!--
-  <<< Author notes: Course header >>>
+  <<< AuthorThis is an `<h1>` header, which is the largest notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
@@ -22,6 +22,8 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 -->
 
 ## Step 1: Add headers
+
+This is an `<h1>` header, which is the largest
 
 _Welcome to "Communicate using Markdown"! :wave:_
 
